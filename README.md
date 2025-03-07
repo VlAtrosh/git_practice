@@ -1,2 +1,1 @@
-"# My C++ Projects" 
-"# 123123121" 
+"Hello, Git!" 
